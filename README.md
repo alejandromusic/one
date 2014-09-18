@@ -1,9 +1,9 @@
 one
 ===
-This is an interactive map that shows the user where his/her current position
+This is an interactive map that shows the user's current position
 and the position of any building or department on the college campus.
 
-This is a web application was built using:
+This is web application was built using:
 - jQuery Mobile for the looks and navigation
 - Javascript (geolocation) to find the coordinates
 - Google Maps API
